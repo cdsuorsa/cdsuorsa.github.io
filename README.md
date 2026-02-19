@@ -15,8 +15,11 @@ Through this project, I have demonstrated the following outcomes:
 * Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
 ## Code Review
+
 [Code Review YouTube Link](https://youtu.be/aXXxSEzEwOc)
+
 ## Enhancement One - Software Design and Engineering
+
 The artifact I chose for this enhancement is an Android event-tracker application that I made in CS 360: Mobile Architecture and Programming. I completed this project back in August 2025. The app allows users to log in, add events, and optionally receive SMS reminders. For this enhancement, I worked specifically on the AddEventActivity class.
 
 I selected this artifact because it demonstrates my ability to analyze existing code, identify weaknesses, and implement meaningful improvements. The original version relied on manual text input for dates, which created reliability issues. By integrating a DatePicker, I improved the user experience, eliminated invalid date formats, and ensured consistent data storage. This enhancement showcases my skills in user‑centered design, refactoring, UI development, and applying standardized components to improve software quality.
